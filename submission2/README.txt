@@ -8,7 +8,7 @@ Paper title:
 Deep Learning for Emotion Recognition in Videos: A Comprehensive Survey
 
 Link to the paper:
-https://www.researchgate.net/publication/357956972_A_Survey_on_Deep_Learning_Algorithms_in_Facial_Emotion_Detection_and_Recognition
+https://www.researchgate.net/publication/371170950_Survey_on_Emotion_Recognition_using_Deep_Learning
 Group Number:
 04
 
